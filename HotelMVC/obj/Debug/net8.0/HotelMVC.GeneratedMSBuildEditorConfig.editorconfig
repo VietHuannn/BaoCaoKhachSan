@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HotelMVC
+build_property.RootNamespace = HotelMVC
+build_property.ProjectDir = D:\BaiLabWeb\Webdulich\HotelMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\BaiLabWeb\Webdulich\HotelMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/CustomersMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzTXZjXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/CustomersMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzTXZjXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/CustomersMvc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzTXZjXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/CustomersMvc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzTXZjXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/CustomersMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzTXZjXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/CustomersMvc/TrangChu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzTXZjXFRyYW5nQ2h1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/Dangnhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ25oYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/DangNhap/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ05oYXBcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/DangNhap/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ05oYXBcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/DichvusMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGljaHZ1c012Y1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/DichvusMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGljaHZ1c012Y1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/DichvusMvc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGljaHZ1c012Y1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/DichvusMvc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGljaHZ1c012Y1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/DichvusMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGljaHZ1c012Y1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/RoomsMvc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNNdmNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/RoomsMvc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNNdmNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/RoomsMvc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNNdmNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/RoomsMvc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNNdmNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/RoomsMvc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNNdmNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/RoomsMvc/TrangChu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbXNNdmNcVHJhbmdDaHUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BaiLabWeb/Webdulich/HotelMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9fjlkwygri

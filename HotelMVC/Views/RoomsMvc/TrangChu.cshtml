@@ -1,0 +1,164 @@
+﻿@model IEnumerable<HotelMVC.Models.Room>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]  Travel_Hotel</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/Doan/WebDuLich/index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="/Doan/WebDuLich/img/Icon.ico" />
+    <link rel="stylesheet" href="~/Doan/WebDuLich/foooter.css">
+
+
+</head>
+<div id="toanphan">
+    <div id="Menu">
+
+        <div id="logo"
+            <img src="">
+            </div>
+        <div class="App">
+            <ul>
+                <li><a asp-controller="RoomsMvc" asp-action="TrangChu">Home</a></li>
+                <li><a asp-controller="CustomersMvc" asp-action="Index">Customers</a></li>
+                <li><a asp-controller="DichvusMvc" asp-action="Index">Dịch vụ</a></li>
+                <li><a asp-controller="RoomsMvc" asp-action="Index">Room</a></li>
+              
+
+            </ul>
+            <!-- Phần bắt đầu -->
+            <div id="star">
+                <button class="button">
+                    <a asp-controller="DangNhap" asp-action="Login">Đăng Nhập</a>
+                    <svg fill="currentColor" viewBox="0 0 24 24" class="icon">
+                        <path clip-rule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z" fill-rule="evenodd"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+   
+<div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">
+            <img src="~/Doan/WebDuLich/img//image5.png" alt="Image 1 Description">
+        </div>
+        <div class="swiper-slide">
+            <img src="~/Doan/WebDuLich/img//image2.png" alt="Image 2 Description">
+        </div>
+        <div class="swiper-slide">
+            <img src="~/Doan/WebDuLich/img//image3.png" alt="Image 3 Description">
+            <p>Travel-Hotel sự lựa chọn hàng đầu cho mọi chuyến đi.</p>
+        </div>
+    </div>
+    <div class="swiper-scrollbar"></div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+    var swiper = new Swiper(".mySwiper", {
+        scrollbar: {
+            el: ".swiper-scrollbar",
+            hide: true,
+        },
+        autoplay: {
+            delay: 3000, // 3 seconds in milliseconds
+        },
+    });
+</script>
+<!-- Phần logo -->
+<div id="logoo">
+    <div id="wifi">
+        <button> <i class="fa-solid fa-wifi" style="color: #000000;"></i></a></button>
+        <br>Free Wifi
+    </div>
+    <div id="parking">
+        <button><i class="fa-solid fa-car" style="color: #000000;"></i></button>
+        <br>Free Parking
+    </div>
+    <div id="fly">
+        <button><i class="fa-solid fa-plane" style="color: #000000;"></i></button>
+        <br>Airport Transfers
+    </div>
+    <div id="home">
+        <button><i class="fa-solid fa-house" style="color: #000000;"></i></button>
+        <br>Resort
+    </div>
+</div>
+<!--Phần nội dung dưới logo-->
+
+<div class="nddau">
+    <div class="line"></div>
+    <div class="text">  WELL COME TRAVEL - HOTEL</div>
+    <div class="line"></div>
+</div>
+<bodyy>
+    <div class="mid">
+        @foreach(var item in Model)
+        {
+            <div class="room-card">
+                <div class="image-container">
+                    <img src="@item.ImageURL" alt="Room Image" class="room-image">
+                    <a href="" class="buy-now">Xem Chi Tiết</a>
+                </div>
+                <div class="room-info">
+                    <h2> <b> @item.Name </b></h2>
+                    <h6 class="card-title"> <i class="fa-solid fa-leaf fa-rotate-270"></i> @item.Category</h6>
+                    <p> <i class="fa-solid fa-leaf fa-rotate-270"></i> @item.Type</p>
+                    <div class="price">
+                        <span class="current-price"> <i class="fa-solid fa-coins"></i> @item.Price.ToString("N0") VND</span>
+                    </div>               
+                    <a class="booking-button" asp-action="Details" asp-route-id="@item.RoomId"> <i class="fa-solid fa-calendar-week"></i> Details</a> |
+                </div>
+            </div>
+        }
+    </div>
+</bodyy>
+    <bodyfoot>
+        <!-- Nội dung trang web khác -->
+        <!-- Footer -->
+        <footer>
+            <div class="footer-container" style="font-size:15px;">
+                <div class="footer-section">
+                    <h2>Travel_Hotel</h2>
+                    <p> <i class="fa-brands fa-pagelines" style="color: #63E6BE;"></i>Travel_Hotel nằm tại trung tâm thành phố, với tiện nghi hiện đại và dịch vụ chuyên nghiệp, đem đến cho quý khách trải nghiệm tuyệt vời.</p>
+                    <p><i class="fas fa-phone-alt" style="color:#63E6BE;"></i> +84 123 456 789</p>
+                    <p><i class="fas fa-envelope" style="color:#63E6BE;"></i>  TravelHotel88@gmail.com</p>
+                    <form class="newsletter-form" action="#">
+                        <input type="email" placeholder="Nhập email của bạn">
+                        <button type="submit">Đăng ký</button>
+                    </form>
+                </div>
+                <div class="footer-section latest-news">
+                    <h2>About Us</h2>
+                    <div class="news-item">
+                        <i class="fa-solid fa-layer-group" style="color: #63E6BE;"></i>
+                        <p>Trải nghiệm sự thanh lịch, ôm lấy sự thoải mái.</p>
+                    </div>
+                    <div class="news-item">
+                        <i class="fa-solid fa-layer-group" style="color: #63E6BE;"></i>
+                        <p>Cánh cổng dẫn đến sự thư giãn và hạnh phúc của bạn.</p>
+                    </div>
+                    <div class="news-item">
+                        <i class="fa-solid fa-layer-group" style="color: #63E6BE;"></i>
+                        <p>Sự pha trộn hoàn hảo giữa sự thoải mái và đẳng cấp.</p>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h2>Theo Dõi Chúng Tôi</h2>
+                    <div class="social-icons">
+                        <a href="#" class="social-icon"><i class="fab fa-facebook-f" style="color:burlywood;"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-twitter" style="color:burlywood;"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-google" style="color:burlywood;"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-instagram" style="color:burlywood;"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-linkedin-in" style="color:burlywood;"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-github" style="color:burlywood;"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Travel_Hotel. Mang đến cho bạn sự thoãi mái.</p>
+            </div>
+        </footer>
+    </bodyfoot>

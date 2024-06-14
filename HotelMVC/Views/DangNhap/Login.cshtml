@@ -1,0 +1,46 @@
+﻿@model HotelMVC.Models.DTO.LoginDTO
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/Doan/WebDuLich/Dangnhap.css">
+    <title>Đăng nhập</title>
+</head>
+<body>
+    <div class="box">
+        <div class="container">
+            <div class="top-header">
+                <span>Travel-Hotel</span>
+                <header>Login</header>
+            </div>
+            <form asp-controller="DangNhap" asp-action="Login" method="post" id="login-form">
+                <div class="input-field">
+                    <input asp-for="Username" class="input" placeholder="User name" required />
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                    <i class="bx bx-user"></i>
+                </div>
+                <div class="input-field">
+                    <input asp-for="Password" type="password" class="input" placeholder="Password" required />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                    <i class="bx bx-lock-alt"></i>
+                </div>
+                <div class="input-field">
+                    <button id="btn">Đăng nhập</button>
+                </div>
+                <div class="bottom">
+                    <div class="left">
+                        <input type="checkbox" id="check">
+                        <label for="check"> Nhớ mật khẩu</label>
+                    </div>
+                    <div class="right"style="font-size:15px;">
+                        <label><a asp-controller="DangNhap" asp-action="Register">Create Account?</a></label>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="/Java.js"></script>
+</body>
+</html>

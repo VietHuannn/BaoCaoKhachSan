@@ -1,0 +1,6 @@
+@Webdulich_HostAddress = http://localhost:5091
+
+GET {{Webdulich_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

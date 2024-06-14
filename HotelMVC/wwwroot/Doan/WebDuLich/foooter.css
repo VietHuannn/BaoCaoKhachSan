@@ -1,0 +1,127 @@
+bodyfoot {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-section {
+    flex: 1;
+    margin: 10px;
+    min-width: 250px;
+    max-width: 300px; /* Giới hạn chiều rộng tối đa để tạo sự đồng đều */
+}
+
+    .footer-section h3 {
+        font-size: 18px;
+        margin-bottom: 20px;
+        text-transform: uppercase;
+    }
+
+    .footer-section p {
+        margin: 10px 0;
+    }
+
+    .footer-section .newsletter-form {
+        display: flex;
+        margin-top: 20px;
+    }
+
+        .footer-section .newsletter-form input[type="email"] {
+            padding: 10px;
+            width: calc(100% - 100px);
+            border: none;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+
+        .footer-section .newsletter-form button {
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: rgb(0, 255, 242);
+            color: #333;
+            cursor: pointer;
+        }
+
+            .footer-section .newsletter-form button:hover {
+                background-color: rgb(0, 255, 242);
+            }
+
+.latest-news .news-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+    .latest-news .news-item i {
+        margin-right: 10px;
+        color: rgb(0, 255, 242);
+    }
+
+    .latest-news .news-item p {
+        margin: 0;
+        text-align: justify; /* Căn đều văn bản */
+    }
+
+.social-icons {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    justify-items: center;
+}
+
+.social-icon {
+    width: 50px;
+    height: 50px;
+    background-color: #444;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    transition: background-color 0.3s ease;
+}
+
+    .social-icon i {
+        margin: 0;
+    }
+
+    .social-icon:hover {
+        background-color: rgb(0, 255, 191);
+        color: #333;
+    }
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+}
+
+    .footer-bottom p {
+        margin: 0;
+        font-size: 14px;
+    }
+
+.footer-section i {
+    margin-right: 10px;
+}
+
+.footer-container h2 {
+    color: rgb(0, 255, 242);
+}

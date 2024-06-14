@@ -1,0 +1,144 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-image: url("/Doan/WebDuLich/img/Contact.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+
+container {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px 0 15px;
+}
+
+span {
+    color: #fff;
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 15px 0;
+}
+
+header {
+    color: #ffffff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 0 0 15px 0;
+}
+
+.input-field {
+    text-align: center;
+}
+    /* phần căn chỉnh lề cho các button*/
+    .input-field .input {
+        height: 1px;
+        width: 300px;
+        border: none;
+        outline: none;
+        border-radius: 30px;
+        color: #fff;
+        padding: 00042px;
+        background: rgba(255,255,255,0.1);
+        position: relative;
+        left: 1px;
+        margin: 10px;
+    }
+
+i {
+    position: relative;
+    top: -31px;
+    left: 17px;
+    color: #fff;
+}
+
+::-webkit-input-placeholder {
+    color: #fff;
+}
+
+.submit {
+    border: none;
+    border-radius: 30px;
+    font-size: 15px;
+    height: 45px;
+    outline: none;
+    width: 50%;
+    background: rgba(255,255,255,0.7);
+    cursor: pointer;
+    transition: .3s;
+}
+
+    .submit:hover {
+        box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
+    }
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: small;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.left {
+    display: flex;
+}
+
+.box {
+    position: absolute;
+    padding-left: 600px;
+}
+
+button {
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border-radius: 8px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #ffffff80;
+    text-shadow: none;
+    background: transparent;
+    cursor: pointer;
+    box-shadow: transparent;
+    border: 1px solid #ffffff80;
+    transition: 0.5s ease;
+    user-select: none;
+}
+
+#btn:hover,
+:focus {
+    color: #000000;
+    background: #00eaff;
+    border: 1px solid #00e1ff;
+    text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff;
+    box-shadow: 0 0 5px #00e5ff, 0 0 20px #00ffae, 0 0 50px #008cff, 0 0 100px #008cff;
+}
+
+.container {
+    position: relative;
+    right: 60px;
+    top: 50px;
+    border: 3px dottíneted #c4ccd2; /* Độ dày, loại viền và màu sắc */
+    padding: 15px; /* Khoảng cách giữa nội dung và khung */
+    width: 410px; /* Chiều rộng */
+    height: 500px; /* Chiều cao */
+    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.7); /* Hiệu ứng tỏa sáng */
+}
+
+.right {
+    color: #00e5ff;
+}

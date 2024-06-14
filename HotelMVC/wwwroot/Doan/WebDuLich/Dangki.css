@@ -1,0 +1,163 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-image: url("/Doan/WebDuLich/img/Contact.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+
+.container {
+    width: 410px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 3px dottíneted #c4ccd2;
+    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.7);
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    width:500px;
+    height:700px;
+}
+
+span {
+    color: #fff;
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+header {
+    color: #ffffff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+}
+
+.input-field {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+    .input-field .form-control {
+        height: 45px;
+        width: 100%;
+        border: none;
+        outline: none;
+        border-radius: 30px;
+        color: #fff;
+        padding: 0 20px;
+        background: rgba(255, 255, 255, 0.1);
+        margin: 10px 0;
+    }
+
+i {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 20px;
+    color: #fff;
+}
+
+::-webkit-input-placeholder {
+    color: #fff;
+}
+
+.submit {
+    border: none;
+    border-radius: 30px;
+    font-size: 15px;
+    height: 45px;
+    outline: none;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.7);
+    cursor: pointer;
+    transition: .3s;
+}
+
+    .submit:hover {
+        box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
+    }
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: small;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+}
+
+button {
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border-radius: 8px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #ffffff80;
+    text-shadow: none;
+    background: transparent;
+    cursor: pointer;
+    box-shadow: transparent;
+    border: 1px solid #ffffff80;
+    transition: 0.5s ease;
+    user-select: none;
+}
+
+    button:hover,
+    button:focus {
+        color: #000000;
+        background: #00eaff;
+        border: 1px solid #00e1ff;
+        text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff;
+        box-shadow: 0 0 5px #00e5ff, 0 0 20px #00ffae, 0 0 50px #008cff, 0 0 100px #008cff;
+    }
+
+.right {
+    font-size:15px;
+    color: #00e5ff;
+}
+.input-field option {
+    color: #000000;
+}
+#login {
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border-radius: 8px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #ffffff80;
+    text-shadow: none;
+    background: transparent;
+    cursor: pointer;
+    box-shadow: transparent;
+    border: 1px solid #ffffff80;
+    transition: 0.5s ease;
+    user-select: none;
+}
+.box{
+    color:white;
+}

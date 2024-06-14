@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HotelMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HotelMVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\DangKi.html",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\DangKi.html"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\Dangki.css",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\Dangki.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\Dangnhap.css",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\Dangnhap.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\Dangnhap.html",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\Dangnhap.html"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\Home.html",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\Home.html"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\foooter.css",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\foooter.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\fotter.html",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\fotter.html"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\.png",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\.png"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\7.png",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\7.png"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\Contact.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\Contact.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\Icon.ico",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\Icon.ico"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\image.png",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\image.png"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\image1.png",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\image1.png"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\image2.png",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\image2.png"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\image3.png",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\image3.png"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\image5.png",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\image5.png"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\image6.png",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\image6.png"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\image8.png",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\image8.png"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\room10.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\room10.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\room12.png",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\room12.png"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\room13.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\room13.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\room14.jpeg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\room14.jpeg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\room2.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\room2.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\room3.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\room3.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\room4.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\room4.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\room5.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\room5.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\room6.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\room6.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\room8.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\room8.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\room9.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\room9.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\rooom11.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\rooom11.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\img\\z5431612051136_714a695645ebf81c70d614484f22708d.jpg",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\img\\z5431612051136_714a695645ebf81c70d614484f22708d.jpg"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\index.css",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\index.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\index.html",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\index.html"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\login.css",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\login.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\package.json",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\package.json"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\sandbox.config.json",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\sandbox.config.json"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\script.js",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\script.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Doan\\WebDuLich\\style1.css",
+      "PackagePath": "staticwebassets\\Doan\\WebDuLich\\style1.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\Properties\\launchSettings.json",
+      "PackagePath": "staticwebassets\\Properties\\launchSettings.json"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\BaiLabWeb\\Webdulich\\HotelMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HotelMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HotelMVC.props",
+      "PackagePath": "build\\HotelMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelMVC.props",
+      "PackagePath": "buildMultiTargeting\\HotelMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HotelMVC.props",
+      "PackagePath": "buildTransitive\\HotelMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

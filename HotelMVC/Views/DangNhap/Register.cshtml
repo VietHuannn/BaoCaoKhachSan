@@ -1,0 +1,64 @@
+﻿@model HotelMVC.Models.DTO.RegisterDTO
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/Doan/WebDuLich/Dangki.css">
+    <title>Đăng Ký</title>
+</head>
+<form asp-controller="DangNhap" asp-action="Register" method="post" id="register-form" onsubmit="return confirmPassword();">
+<body>
+    <div class="box" style="font-size:15px"; >
+        <div class="container">
+            <div class="top-header">
+                <span>Travel-Hotel</span>
+                <header>Register</header>
+            </div>
+            <div class="input-field">
+                    <label for="Username">Username:</label>
+                    <input type="text" class="form-control" id="Username" name="Username" required>
+            </div>
+            <div class="input-field">
+                    <label for="Password">Password:</label>
+                    <input type="password" class="form-control" id="Password" name="Password" required>
+            </div>
+            <div class="input-field">
+                    <label for="ConfirmPassword">Confirm Password:</label>
+                    <input type="password" class="form-control" id="ConfirmPassword" name="ConfirmPassword" required>
+            </div>
+            <div class="input-field">
+               
+                        <label for="Roles">Roles:</label>
+                        <input type="text" class="form-control" id="Roles" name="Roles">
+                
+                <i class="bx bx-user-check"></i>
+            </div>
+                <div class="d-flex justify-content-between align-items-center">
+                    <button id="btn">Register</button>
+                    <a asp-controller="DangNhap" asp-action="Login" id="login">Login</a>
+                </div>
+            <div class="bottom">
+                <div class="right">
+                        <label><a asp-controller="DangNhap" asp-action="Login">Bạn muốn quay lại!</a></label>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        // Hàm kiểm tra mật khẩu nhập lại
+        function confirmPassword() {
+            var password = document.getElementById("Password").value;
+            var confirmPassword = document.getElementById("ConfirmPassword").value;
+
+            if (password !== confirmPassword) {
+                // Nếu mật khẩu không khớp, hiển thị thông báo và không gửi form
+                alert("Mật khẩu Nhập lại không trùng khớp!");
+                return false; // Ngăn chặn form từ việc submit
+            }
+            return true; // Cho phép form submit nếu mật khẩu khớp
+        }
+    </script>
+</body>
+</form>
+</html>
